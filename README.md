@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanjbutler. A final year Computing student at Manchester Metropolitan University. I'm currently looking for graduate roles, I'm open to learn any framework needed :)
 
-- I can be contacted through <a href="https://www.linkedin.com/in/nathanjbutlerr/"> LinkedIn</a> and through email at nathanjbutler793@gmail.com
+- I can be contacted through <a href="https://www.linkedin.com/in/nathanjbutlerr/"> LinkedIn</a> and can be emailled at nathanjbutler793@gmail.com
 
 
 
